@@ -32,6 +32,6 @@ GetEventsByDate - Recieves a UK place name place name and date or date range (su
 
 Potential improvements:
 
-Alexa, when is the next *event name in *place name*?
-Alexa, tell me more about *event name*
+- Alexa, when is the next *event name in *place name* ?
+- Alexa, tell me more about *event name*
 
